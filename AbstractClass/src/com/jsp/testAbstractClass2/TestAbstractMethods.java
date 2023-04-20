@@ -23,9 +23,6 @@ class ArithmeticOperations extends Calculator {
 		return a*b;
 	}
 	
-	
-	
-	
 	void display() {
 		System.out.println("Hey... Hello");
 	}
